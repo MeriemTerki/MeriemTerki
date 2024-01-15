@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Meriem Terki</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriemterki" alt="meriemterki" /></a> </p>
-
-- 🔭 I’m currently working on **my Cloud and Data engineering skills**
+- 🔭 I’m currently working on [data-engineering-zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html)
 
 - 🌱 I’m currently learning **Data engineering,AWS Cloud and AI**
 
 - 👯 I’m collaborating to [AWStip platform](https://awstip.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@mrmterki](https://medium.com/@mrmterki)
+- 📝 I regularly write articles on [https://medium.com/@meriemterki](https://medium.com/@meriemterki)
 
 - 💬 Ask me about **Data Analysis ,Machine Learning and Cloud**
 
@@ -33,5 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meriemterki&show_icons=true&locale=en" alt="meriemterki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meriemterki&" alt="meriemterki" /></p>
-
 
