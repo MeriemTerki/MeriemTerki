@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@meriemterki](https://medium.com/@meriemterki)
 
-- 💬 Ask me about **Data Analysis ,Machine Learning and Cloud**
+- 💬 Ask me about **Data Science ,Machine Learning and Cloud**
 
 - 📫 How to reach me **mrmterki@gmail.com**
 
