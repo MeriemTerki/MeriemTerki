@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meriem Terki</h1>
 <h3 align="center">A passionate Data and Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working on [data-engineering-zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html)
+- 🔭 I’m currently working on **LLM applications**
 
-- 🌱 I’m currently learning **Data engineering,AWS Cloud and AI**
+- 🌱 I’m currently learning **Data engineering,AWS Cloud and more about AI**
 
 - 👯 I’m collaborating to [AWStip platform](https://awstip.com/)
 
