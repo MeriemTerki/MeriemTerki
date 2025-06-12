@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Meriem Terki</h1>
 <h3 align="center">A passionate Data and Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working on **LLM applications**
+- 🔭 I’m currently working on **AI Engineering projects**
 
-- 🌱 I’m currently learning **Data engineering,AWS Cloud and more about AI**
+- 🌱 I’m currently learning **Data engineering,AWS Cloud and more about AI Engineering**
 
 - 👯 I’m collaborating to [AWStip platform](https://awstip.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@meriemterki](https://medium.com/@meriemterki)
+- 📝 I regularly write articles  about AI  and Cloud on [https://medium.com/@meriemterki](https://medium.com/@meriemterki)
 
-- 💬 Ask me about **Data Science ,Machine Learning and Cloud**
+- 💬 Ask me about **AI Engineering , Data science  and Cloud Computing**
 
 - 📫 How to reach me **mrmterki@gmail.com**
 
