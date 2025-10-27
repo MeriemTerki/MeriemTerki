@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meriem Terki</h1>
-<h3 align="center">AI Researcher | Exploring Large Language Models, Vision-Language Systems, and AI Agents</h3>
+<h3 align="center">AI Engineer | Exploring LLMs, Multimodal Models & AI for Healthcare</h3>
 
 ---
 
@@ -13,7 +13,6 @@
   - **Applications of AI in Healthcare and Mental Health**
 - 🌱 I’m continuously learning about **AI Research, Applied Deep Learning, and Cloud-based AI Systems**
 - 🧩 I’m passionate about **bridging research and real-world applications** through scalable AI systems
-- 💬 Ask me about **LLMs, AI Agents, Vision-Language models, or AI in Healthcare**
 - ✍️ I write about **AI Research, Cloud, and ML Engineering** on [Medium](https://medium.com/@meriemterki)
 - 📫 Reach me at **mrmterki@gmail.com**
 - 🤝 I’m open to **research internships** and **collaborations** in **LLMs, Multimodal AI, or Healthcare AI**
@@ -51,14 +50,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meriemterki&show_icons=true&locale=en" alt="meriemterki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meriemterki&" alt="meriemterki" /></p>
-
----
-
-### 🧩 Featured Topics
-- 🔹 **LLMs & Reasoning Models** – Prompt engineering, fine-tuning, and evaluation
-- 🔹 **Vision-Language Models** – Multimodal understanding and retrieval
-- 🔹 **AI Agents** – Tool-using, reasoning, and collaboration frameworks
-- 🔹 **AI for Healthcare** – Predictive models, medical imaging, and mental health AI
 
 ---
 
