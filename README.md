@@ -13,7 +13,7 @@
   - **Applications of AI in Healthcare and Mental Health**
 - 🌱 I’m continuously learning about **AI Research, Applied Deep Learning, and Cloud-based AI Systems**
 - 🧩 I’m passionate about **bridging research and real-world applications** through scalable AI systems
-- ✍️ I write about **AI Research, Cloud, and ML Engineering** on [Medium](https://medium.com/@meriemterki)
+- ✍️ I write about **Cloud, and ML Engineering** on [Medium](https://medium.com/@meriemterki)
 - 📫 Reach me at **mrmterki@gmail.com**
 - 🤝 I’m open to **research internships** and **collaborations** in **LLMs, Multimodal AI, or Healthcare AI**
 
