@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meriem Terki</h1>
-<h3 align="center">AI Engineer | Exploring LLMs, Multimodal Models & AI for Healthcare</h3>
+<h3 align="center">AI Engineer | LLMs, Multimodal Models & AI for Healthcare</h3>
 
 ---
 
