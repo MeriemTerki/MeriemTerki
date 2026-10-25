@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <a href="mailto:mrmterki@gmail.com">Email</a> ·
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mrmterki@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/meriemterki/">LinkedIn</a> ·
   <a href="https://medium.com/@meriemterki">Medium</a>
 </p>
