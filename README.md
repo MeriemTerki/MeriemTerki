@@ -1,7 +1,11 @@
 <h1 align="center">Meriem Terki</h1>
 
 <p align="center">
-  AI researcher at the intersection of quantum computing, language models, and healthcare
+  <b>AI Researcher</b>
+</p>
+
+<p align="center">
+  Working at the intersection of quantum computing, language models, and healthcare
 </p>
 
 <br>
@@ -22,6 +26,6 @@
 
 <p align="center">
   <a href="mailto:mrmterki@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/meriem-terki">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/meriemterki/">LinkedIn</a> ·
   <a href="https://medium.com/@meriemterki">Medium</a>
 </p>
