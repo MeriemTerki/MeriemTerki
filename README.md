@@ -1,56 +1,27 @@
-<h1 align="center">Hi 👋, I'm Meriem Terki</h1>
-<h3 align="center">AI Engineer | LLMs, Multimodal Models & AI for Healthcare</h3>
+<h1 align="center">Meriem Terki</h1>
 
----
-
-### 👩‍💻 About Me
-
-- 🔭 I’m currently working on **AI Engineering and Research projects**
-- 🧠 My current interests revolve around:
-  - **Large Language Models (LLMs)** and **Reasoning Models**
-  - **Vision-Language Models (VLMs)** and **Multimodal Learning**
-  - **AI Agents** and **Autonomous Systems**
-  - **Applications of AI in Healthcare and Mental Health**
-- 🌱 I’m continuously learning about **AI Research, Applied Deep Learning, and Cloud-based AI Systems**
-- 🧩 I’m passionate about **bridging research and real-world applications** through scalable AI systems
-- ✍️ I write about **Cloud, and ML Engineering** on [Medium](https://medium.com/@meriemterki)
-- 📫 Reach me at **mrmterki@gmail.com**
-- 🤝 I’m open to **research internships** and **collaborations** in **LLMs, Multimodal AI, or Healthcare AI**
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/meriem-terki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meriem-terki" height="30" width="40" /></a>
-<a href="https://medium.com/@meriemterki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meriemterki" height="30" width="40" /></a>
+<p align="center">
+  AI researcher at the intersection of quantum computing, language models, and healthcare
 </p>
 
----
+<br>
 
-### 🧰 Languages & Tools
-<p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<table align="center">
+  <tr>
+    <th align="center">Quantum × LLMs & Agents</th>
+    <th align="center">Quantum × Healthcare</th>
+    <th align="center">Evaluation & Benchmarking</th>
+  </tr>
+</table>
+
+<p align="center">
+  📌 My work is in the pinned repositories below
 </p>
 
----
+<br>
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meriemterki&show_icons=true&locale=en&layout=compact" alt="meriemterki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meriemterki&show_icons=true&locale=en" alt="meriemterki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meriemterki&" alt="meriemterki" /></p>
-
----
-
-⭐ *"Curious about how intelligence emerges from models — and how it can serve humanity."*
+<p align="center">
+  <a href="mailto:mrmterki@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/meriem-terki">LinkedIn</a> ·
+  <a href="https://medium.com/@meriemterki">Medium</a>
+</p>
