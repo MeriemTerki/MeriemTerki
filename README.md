@@ -12,9 +12,9 @@
 
 <table align="center">
   <tr>
-    <th align="center">Quantum × LLMs & Agents</th>
+    <th align="center">Quantum Code Generation & Verification</th>
+    <th align="center">Quantum × LLM Agents</th>
     <th align="center">Quantum × Healthcare</th>
-    <th align="center">Evaluation & Benchmarking</th>
   </tr>
 </table>
 
