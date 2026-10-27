@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Working at the intersection of quantum computing, language models, and healthcare
+  Working at the intersection of quantum computing, language models, and healthcare AI
 </p>
 
 <br>
